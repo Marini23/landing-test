@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/landing-test/static/css/main.cd2e038f.css",
+    "main.js": "/landing-test/static/js/main.ca64c74a.js",
+    "static/media/MessinaSansMono-Book.ttf": "/landing-test/static/media/MessinaSansMono-Book.c72629595812a8ff4ffe.ttf",
+    "static/media/MessinaSansMono-Regular.ttf": "/landing-test/static/media/MessinaSansMono-Regular.b289391c577f8fd447dd.ttf",
+    "static/media/MessinaSansMono-Bold.ttf": "/landing-test/static/media/MessinaSansMono-Bold.1f75a6d03c35769edef5.ttf",
+    "static/media/MessinaSansMono-SemiBold.ttf": "/landing-test/static/media/MessinaSansMono-SemiBold.79c44c973c9e739c9ad4.ttf",
+    "static/media/logo_mobile.svg": "/landing-test/static/media/logo_mobile.600d8a4a4e22cad79b616de02955604a.svg",
+    "static/media/bg_button_2.svg": "/landing-test/static/media/bg_button_2.90f8ca69a5b892a091f5464c9b3ac0d2.svg",
+    "static/media/bg_button_1.svg": "/landing-test/static/media/bg_button_1.e2307f23a5f15bbbcc405b4ab14a5e7b.svg",
+    "index.html": "/landing-test/index.html",
+    "static/media/bg_button_3.svg": "/landing-test/static/media/bg_button_3.4a3e1330072dd21fd9226c8816852425.svg",
+    "main.cd2e038f.css.map": "/landing-test/static/css/main.cd2e038f.css.map",
+    "main.ca64c74a.js.map": "/landing-test/static/js/main.ca64c74a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e038f.css",
+    "static/js/main.ca64c74a.js"
+  ]
+}
