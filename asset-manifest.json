@@ -1,7 +1,12 @@
 {
   "files": {
     "main.css": "/landing-test/static/css/main.cd2e038f.css",
-    "main.js": "/landing-test/static/js/main.ca64c74a.js",
+    "main.js": "/landing-test/static/js/main.9978cb00.js",
+    "static/media/BiroScriptUSPlus-Regular.ttf": "/landing-test/static/media/BiroScriptUSPlus-Regular.c2eb85c7d374dcb860f4.ttf",
+    "static/media/BiroScriptUSPlus-Bold.ttf": "/landing-test/static/media/BiroScriptUSPlus-Bold.c25a918a0bfeeaf1fb9f.ttf",
+    "static/media/image_mobile.jpg": "/landing-test/static/media/image_mobile.92da39a130daec537305.jpg",
+    "static/media/RightGrotesk-CompactBlack.otf": "/landing-test/static/media/RightGrotesk-CompactBlack.965367bf710f347153cc.otf",
+    "static/media/RightGrotesk-Medium.otf": "/landing-test/static/media/RightGrotesk-Medium.8623e3fbb1e0b6d0b84f.otf",
     "static/media/MessinaSansMono-Book.ttf": "/landing-test/static/media/MessinaSansMono-Book.c72629595812a8ff4ffe.ttf",
     "static/media/MessinaSansMono-Regular.ttf": "/landing-test/static/media/MessinaSansMono-Regular.b289391c577f8fd447dd.ttf",
     "static/media/MessinaSansMono-Bold.ttf": "/landing-test/static/media/MessinaSansMono-Bold.1f75a6d03c35769edef5.ttf",
@@ -12,10 +17,10 @@
     "index.html": "/landing-test/index.html",
     "static/media/bg_button_3.svg": "/landing-test/static/media/bg_button_3.4a3e1330072dd21fd9226c8816852425.svg",
     "main.cd2e038f.css.map": "/landing-test/static/css/main.cd2e038f.css.map",
-    "main.ca64c74a.js.map": "/landing-test/static/js/main.ca64c74a.js.map"
+    "main.9978cb00.js.map": "/landing-test/static/js/main.9978cb00.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.ca64c74a.js"
+    "static/js/main.9978cb00.js"
   ]
 }
