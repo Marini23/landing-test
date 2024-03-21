@@ -1,20 +1,11 @@
 import { BurgerMenu } from './BurgerMenu/BurgerMenu';
+import { Hero } from './Hero/Hero';
 
 export const App = () => {
   return (
-    <div
-    // style={{
-    //   height: '100vh',
-    //   display: 'flex',
-    //   justifyContent: 'center',
-    //   alignItems: 'center',
-    // }}
-    >
+    <div>
+      <Hero />
       <BurgerMenu />
-      {/* <ul>
-        <li>ABOUT</li>
-        <li>FAQ</li>
-      </ul> */}
     </div>
   );
 };

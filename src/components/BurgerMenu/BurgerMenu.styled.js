@@ -18,14 +18,16 @@ export const ListMenu = styled.ul`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: 'Messina';
   font-size: 24px;
   font-weight: 600px;
   line-height: 29px;
   color: #ffffff;
-  position: absolute;
+  margin-top: 296px;
+  /* position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
 `;
 
 export const NavItem = styled.li`

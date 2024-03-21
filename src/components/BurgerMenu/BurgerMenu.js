@@ -8,7 +8,7 @@ export const BurgerMenu = () => {
   return (
     <Container>
       <LogoIcon src={logo} alt="logo Icon" />
-      <BurgerButton backgroundColor="rgba(255, 255, 255, 0.1)" />
+      <BurgerButton backgroundcolor="rgba(255, 255, 255, 0.1)" />
       <ListMenu>
         <NavItem>ABOUT</NavItem>
         <NavItem>M-MAP</NavItem>

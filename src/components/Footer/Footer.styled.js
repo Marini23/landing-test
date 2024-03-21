@@ -11,6 +11,7 @@ export const FooterWrap = styled.footer`
 
 export const FooterText = styled.p`
   width: 216px;
+  font-family: 'Messina';
   font-size: 12px;
   line-height: 14px;
   color: #ffffff;

@@ -18,6 +18,7 @@ export const ListItem = styled.li`
   /* background-color: rgba(255, 255, 255, 0.1); */
   background-color: ${props => props.backgroundColor};
   color: #ffffff;
+  font-family: 'Messina';
   font-size: 12px;
   font-weight: 600;
   line-height: 14px;
