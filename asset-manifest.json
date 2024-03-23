@@ -1,26 +1,29 @@
 {
   "files": {
     "main.css": "/landing-test/static/css/main.cd2e038f.css",
-    "main.js": "/landing-test/static/js/main.9978cb00.js",
+    "main.js": "/landing-test/static/js/main.5cacd1ce.js",
+    "static/media/ape_mobile_about.svg": "/landing-test/static/media/ape_mobile_about.de13cee15ca50a25575ef897448ba873.svg",
+    "static/media/ape_mobile.svg": "/landing-test/static/media/ape_mobile.f5295e100d022160d617b0896bc6dc6f.svg",
     "static/media/BiroScriptUSPlus-Regular.ttf": "/landing-test/static/media/BiroScriptUSPlus-Regular.c2eb85c7d374dcb860f4.ttf",
     "static/media/BiroScriptUSPlus-Bold.ttf": "/landing-test/static/media/BiroScriptUSPlus-Bold.c25a918a0bfeeaf1fb9f.ttf",
-    "static/media/image_mobile.jpg": "/landing-test/static/media/image_mobile.92da39a130daec537305.jpg",
     "static/media/RightGrotesk-CompactBlack.otf": "/landing-test/static/media/RightGrotesk-CompactBlack.965367bf710f347153cc.otf",
     "static/media/RightGrotesk-Medium.otf": "/landing-test/static/media/RightGrotesk-Medium.8623e3fbb1e0b6d0b84f.otf",
     "static/media/MessinaSansMono-Book.ttf": "/landing-test/static/media/MessinaSansMono-Book.c72629595812a8ff4ffe.ttf",
     "static/media/MessinaSansMono-Regular.ttf": "/landing-test/static/media/MessinaSansMono-Regular.b289391c577f8fd447dd.ttf",
     "static/media/MessinaSansMono-Bold.ttf": "/landing-test/static/media/MessinaSansMono-Bold.1f75a6d03c35769edef5.ttf",
     "static/media/MessinaSansMono-SemiBold.ttf": "/landing-test/static/media/MessinaSansMono-SemiBold.79c44c973c9e739c9ad4.ttf",
+    "static/media/banner.jpg": "/landing-test/static/media/banner.c622086613ef4b30a5d3.jpg",
     "static/media/logo_mobile.svg": "/landing-test/static/media/logo_mobile.600d8a4a4e22cad79b616de02955604a.svg",
     "static/media/bg_button_2.svg": "/landing-test/static/media/bg_button_2.90f8ca69a5b892a091f5464c9b3ac0d2.svg",
     "static/media/bg_button_1.svg": "/landing-test/static/media/bg_button_1.e2307f23a5f15bbbcc405b4ab14a5e7b.svg",
     "index.html": "/landing-test/index.html",
     "static/media/bg_button_3.svg": "/landing-test/static/media/bg_button_3.4a3e1330072dd21fd9226c8816852425.svg",
+    "static/media/close_icon.svg": "/landing-test/static/media/close_icon.a0f01b5b2ac6dae7b43e6e1b641db94f.svg",
     "main.cd2e038f.css.map": "/landing-test/static/css/main.cd2e038f.css.map",
-    "main.9978cb00.js.map": "/landing-test/static/js/main.9978cb00.js.map"
+    "main.5cacd1ce.js.map": "/landing-test/static/js/main.5cacd1ce.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.9978cb00.js"
+    "static/js/main.5cacd1ce.js"
   ]
 }
