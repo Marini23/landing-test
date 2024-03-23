@@ -1,13 +1,20 @@
 import styled from 'styled-components';
-export const Container = styled.div`
-  width: 100%;
-  max-width: 480px;
-  min-width: 360px;
+export const Container = styled.section`
+  position: relative;
+  /* max-width: 480px;
+  min-width: 360px; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+`;
+
+export const LogoIcon = styled.img`
+  cursor: pointer;
+  position: absolute;
+  top: 70px;
+  left: 16px;
 `;
 
 export const WrapMainContant = styled.div`
@@ -18,7 +25,8 @@ export const WrapMainContant = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* margin: 0 auto; */
+  margin: 0 8px;
+  margin-top: 56px;
 `;
 
 export const Title = styled.h1`
@@ -46,7 +54,6 @@ export const TextTwo = styled.p`
 `;
 
 export const TextThree = styled.p`
-  width: 217px;
   display: flex;
   flex-wrap: wrap;
   font-family: Messina;
@@ -57,6 +64,22 @@ export const TextThree = styled.p`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 12px;
+`;
+
+export const Description = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 12px;
+  width: 217px;
+  height: 50px;
+  font-family: Messina;
+  font-size: 12px;
+  line-height: 14px;
+  color: #1e1e1e;
 `;
 
 export const Button = styled.button`

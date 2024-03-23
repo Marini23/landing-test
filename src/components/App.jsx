@@ -1,11 +1,13 @@
-import { BurgerMenu } from './BurgerMenu/BurgerMenu';
+import { About } from './About/About';
+
 import { Hero } from './Hero/Hero';
 
 export const App = () => {
   return (
     <div>
       <Hero />
-      <BurgerMenu />
+      <About />
+      {/* <BurgerMenu /> */}
     </div>
   );
 };
